@@ -1,6 +1,6 @@
 # Toward Explainable Artificial Intelligence for Regression Models: A methodological perspective
 
-![Alt text](./figures/figure_1_overview.png)
+![Alt text](./figures/fig_overview.png)
 
 ## About
 Welcome to xai-regression. We think of explainable artificial intelligence (XAI) as crucial for an informed application of machine learning methods in practice. Although XAI techniques have reached significant popularity for classifiers, little attention has been devoted to XAI for regression models so far. With our IEEE SPM publication [*Toward Explainable Artificial Intelligence for Regression Models: A methodological perspective*](https://ieeexplore.ieee.org/document/9810062) (open pre-print available [here](https://arxiv.org/abs/2112.11407)) and the corresponding [website](xai-regression.org) we aim to address this gap and provide an overview of the latest developments of the field.
