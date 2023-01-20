@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Letzgus, Wagner, Lederer, Samek, Müller, Montavon
+    given-names: Simon, Patrick, Jonas, Wojciech, Klaus-Robert, Gregoire
+title: "Toward Explainable Artificial Intelligence for Regression Models: A methodological perspective"
+version: 1.0.0
+doi: 10.1109/MSP.2022.3153277
+date-released: 2022-06-28
