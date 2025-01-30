@@ -37,6 +37,6 @@ The functions can be used to explain your model output relative to custom-specif
 
 
 ## Contact
-simon.letzgus@tu-berlin.de 
+simon.leszek@campus.tu-berlin.de 
 
 Machine Learning Group, Technische Universität Berlin, Straße des 17. Juni 135, Berlin, 10623, Germany.
